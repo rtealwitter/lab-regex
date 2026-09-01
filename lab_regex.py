@@ -1,15 +1,4 @@
-'''
-Lab: Redacted -- drilling regular expressions for extracting and redacting data.
-
-Fill in the body of each function so that its doctests pass, then run
-
-    python3 -m doctest lab_regex.py
-
-and keep going until the command falls silent. Write every pattern as a raw
-string (r'...'), and build it against real text at https://regex101.com before
-you paste it in: regex is one of the few things an LLM will get confidently
-wrong, so test the pattern, do not trust it.
-'''
+'''Starter functions for the Redacted lab.'''
 
 import re
 
