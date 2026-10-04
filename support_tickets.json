@@ -1,0 +1,14 @@
+[
+  {
+    "ticket": "demo-001",
+    "message": "Order 42 needs 2 replacements. Call 909-555-0101 or 213-555-0199. Ask @ada and @grace. #shipping #review #shipping Details https://example.com/orders/42 and http://example.com/help SSN 000-12-3456; email ada@example.com",
+    "contact": "ada@example.com",
+    "card": "1234567812345678"
+  },
+  {
+    "ticket": "demo-002",
+    "message": "Order 007 is delayed. Ask @sam. #delivery Details https://example.com/orders/007 SSN 000-98-7654; email sam@example.com",
+    "contact": "sam@example.com and some extra text",
+    "card": "0000111122223333"
+  }
+]
