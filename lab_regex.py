@@ -142,7 +142,7 @@ def mask_last_four(card):
     >>> mask_last_four('4111111111111111')
     '************1111'
     '''
-    # TODO: your regex here (mask each digit that still has four digits after it)
+    # TODO: your regex here (a 16-digit card has twelve digits before its last four)
     pass
 
 
