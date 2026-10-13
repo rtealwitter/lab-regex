@@ -156,6 +156,8 @@ def is_valid_email(s):
     False
     >>> is_valid_email('ada@example.com and some extra text')
     False
+    >>> is_valid_email('ada@example.com' + chr(10))
+    False
     '''
-    # TODO: your regex here (anchor the email shape with ^ and $, then bool it)
+    # TODO: use re.fullmatch for the entire email string, then bool the result.
     pass
