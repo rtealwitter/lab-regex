@@ -116,7 +116,7 @@ def redact_emails(text):
     >>> redact_emails('this line has no email')
     'this line has no email'
     '''
-    # TODO: your regex here (re.sub the email shape from the reading)
+    # TODO: your regex here (use re.sub to replace each email address)
     pass
 
 
